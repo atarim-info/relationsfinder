@@ -1,5 +1,8 @@
 # relationsfinder
+<<<<<<< Upstream, based on origin/main
 
+=======
+>>>>>>> 13ef9a2 README.md
 Finds the minimal relation level between two people - shortest path in an unweighted graph
 
 _A utility that finds the minimal relation level between two people._
