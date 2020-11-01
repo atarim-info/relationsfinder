@@ -10,7 +10,8 @@ _A utility that finds the minimal relation level between two people._
 The utility have the following functions:
 
 	void Init(Person[] people) - Initialization of the utility with person instances.
-	int FindMinRelationLevel(Person personA, Person personB) - Returns the minimal level of relation between personA and personB. If they are not related, return -1.
+	int FindMinRelationLevel(Person personA, Person personB) - Returns the minimal level of relation between personA and personB. 
+	                                                           If they are not related, return -1.
 
 The following classes define a person with a name and address:
 
