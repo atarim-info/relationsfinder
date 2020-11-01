@@ -16,7 +16,6 @@ plugins {
 apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'idea'
-apply plugin : "java" 
 
 group = 'info.atarim.graph.unweighted'
 version = '0.0.1-SNAPSHOT'
@@ -51,7 +50,7 @@ test {
 
 
 ext {
-   javaMainClass = "info.atarim.graph.unweighted.UnweightedPath"
+   javaMainClass = "info.atarim.persons.PersonsGraph"
 }
 
 application {
